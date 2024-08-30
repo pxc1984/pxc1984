@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **pxc1984/pxc1984** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Languages: En, Ru
+Currently working on ss14
+How to reach me: tg: https://t.me/pxc1984 discord: @pacable
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pxc1984&theme=dark" alt="pxc1984" /></p>
