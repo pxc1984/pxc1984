@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Languages: En, Ru
-Currently working on ss14
-How to reach me: tg: https://t.me/pxc1984 discord: @pacable
+<p>Languages: En, Ru</p>
+<p>Currently working on ss14</p>
+<p>How to reach me: tg: https://t.me/pxc1984 discord: @pacable</p>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pxc1984&theme=dark" alt="pxc1984" /></p>
