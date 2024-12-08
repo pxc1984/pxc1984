@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 <p>Unemployed, currently practicing programming and is in search for a job.</p>
 <p>How to reach me: tg: https://t.me/pxc1984 discord: @pacable</p>
 
-
+<!--
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pxc1984&theme=dark" alt="pxc1984" /></p>
+-->
