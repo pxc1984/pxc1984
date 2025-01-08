@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <p>Languages: En, Ru</p>
-<p>Unemployed, currently practicing programming and is in search for a job.</p>
+<p>Unemployed, currently practicing programming.</p>
 <p>How to reach me: tg: https://t.me/pxc1984 discord: @pacable</p>
 
 <!--
