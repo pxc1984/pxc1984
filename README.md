@@ -2,7 +2,6 @@
 <p>Unemployed, currently practicing programming.</p>
 <p>How to reach me: tg: https://t.me/pxc1984 discord: @pacable</p>
 
-<p>Me:</p>
 <p>
     <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
     <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" />
