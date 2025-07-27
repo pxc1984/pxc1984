@@ -2,6 +2,8 @@
 <p>Unemployed, currently practicing programming.</p>
 <p>How to reach me: tg: https://t.me/pxc1984 discord: @pacable</p>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pxc1984&show_icons=true&theme=github_dark)
+
 <p>
     <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
     <img src="https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white" />
