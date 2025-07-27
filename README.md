@@ -1,5 +1,5 @@
 <p>Languages: RU, EN</p>
-<p>Unemployed, currently practicing programming.</p>
+<p>CS student at CU</p>
 <p>How to reach me: tg: https://t.me/pxc1984 discord: @pacable</p>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pxc1984&show_icons=true&theme=github_dark)
