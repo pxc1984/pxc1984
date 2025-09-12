@@ -1,4 +1,4 @@
-<p>Languages: RU, EN</p>
+<p>Languages: RU(C3), EN(<a href="https://disk.yandex.ru/d/CW6ebdftdkDohA">C1</a>)</p>
 <p>CS student at CU</p>
 <p>How to reach me: tg: https://t.me/pxc1984 discord: @pacable</p>
 
@@ -8,6 +8,7 @@
     <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
     <img src="https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white" />
     <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white" />
+    <img src="https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white" />
     <img src="https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff" />
     <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" />
     <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
