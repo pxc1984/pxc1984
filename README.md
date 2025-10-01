@@ -1,5 +1,5 @@
 CS student at CU  
-Languages: **RU (C3)** | **EN ([C1](https://disk.yandex.ru/d/CW6ebdftdkDohA))**  
+Languages: **RU (Native)** | **EN ([C1](https://disk.yandex.ru/d/CW6ebdftdkDohA))**  
 Reach me: [Telegram: **@pxc1984**](https://t.me/pxc1984) | [Discord: **@pacable**](https://discord.com/users/746773397073297500)
 
 ---
