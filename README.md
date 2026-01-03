@@ -1,6 +1,6 @@
 CS student at CU  
 Languages: **RU (Native)** | **EN ([C1](https://disk.yandex.ru/d/CW6ebdftdkDohA))**  
-Reach me: [Telegram: **@pxc1984**](https://t.me/iamamaev) | [Discord: **@pacable**](https://discord.com/users/746773397073297500)
+Reach me: [Telegram: **@iamamaev**](https://t.me/iamamaev) | [Discord: **@pacable**](https://discord.com/users/746773397073297500)
 
 ---
 
