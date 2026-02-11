@@ -4,10 +4,6 @@ Reach me: [Telegram: **@iamamaev**](https://t.me/iamamaev) | [Discord: **@pacabl
 
 ---
 
-[![pxc1984's GitHub stats](https://github-readme-stats.vercel.app/api?username=pxc1984)](https://github.com/pxc1984/github-readme-stats)
-
----
-
 ### Tech Stack
 **Languages:**  
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)  ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white)  ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)  ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)  ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)  ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white)  ![Lua](https://img.shields.io/badge/-Lua-2C2D72?logo=lua&logoColor=white)  ![YAML](https://img.shields.io/badge/-YAML-CB171E?logo=yaml&logoColor=fff)
