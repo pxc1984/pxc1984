@@ -4,7 +4,7 @@ Reach me: [Telegram: **@iamamaev**](https://t.me/iamamaev) | [Discord: **@pacabl
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pxc1984&show_icons=true&theme=github_dark)
+[![pxc1984's GitHub stats](https://github-readme-stats.vercel.app/api?username=pxc1984)](https://github.com/pxc1984/github-readme-stats)
 
 ---
 
